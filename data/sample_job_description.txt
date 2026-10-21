@@ -1,0 +1,26 @@
+Job Title: Software Engineer
+Company: TechVista Solutions
+Location: Remote / Hybrid
+Department: Engineering
+
+About Us:
+TechVista Solutions is a fast-growing tech company specializing in scalable web applications and AI-driven solutions.
+
+Role Overview:
+We are looking for a passionate Software Engineer to join our backend development team. You will be responsible for designing, building, and maintaining high-performance APIs and microservices.
+
+Key Responsibilities:
+- Develop and maintain robust REST APIs and services.
+- Write clean, testable, and efficient code.
+- Collaborate with frontend teams to integrate APIs.
+- Optimize application performance and database queries.
+- Participate in code reviews and architectural discussions.
+
+Required Skills & Qualifications:
+- 1 to 3 years of professional experience in software development.
+- Strong proficiency in Python and related frameworks (FastAPI, Django, or Flask).
+- Experience with building and consuming REST APIs.
+- Solid understanding of SQL and relational databases (PostgreSQL or MySQL).
+- Proficiency with Git and version control workflows.
+- Familiarity with basic frontend technologies (React, HTML/CSS) is a plus.
+- Bachelor's degree in Computer Science or related field.

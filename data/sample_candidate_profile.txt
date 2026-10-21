@@ -1,0 +1,31 @@
+Arun Kumar
+Bengaluru, Karnataka | arun.kumar.dev@email.com | +91-9876543210
+
+SUMMARY
+Enthusiastic and detail-oriented Software Developer with 1.5 years of experience building scalable backend services and APIs. Proven ability to learn new technologies quickly and work effectively in agile teams.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Visvesvaraya Technological University, Belagavi
+Graduated: May 2024
+CGPA: 8.5/10
+
+EXPERIENCE
+Junior Backend Developer | DataSync Technologies, Bengaluru
+July 2024 - Present (1.5 years)
+- Developed and maintained RESTful APIs using Python and FastAPI, serving over 10,000 daily active users.
+- Optimized database queries in PostgreSQL, reducing average API response time by 25%.
+- Implemented automated testing using pytest, increasing code coverage to 85%.
+- Collaborated with the frontend team to integrate APIs into a React-based dashboard.
+- Managed version control and CI/CD pipelines using Git and GitHub Actions.
+
+SKILLS
+Programming Languages: Python, JavaScript, Java (Basic)
+Frameworks/Libraries: FastAPI, Flask, React
+Databases: PostgreSQL, MySQL
+Tools: Git, Docker, REST APIs, Postman
+
+PROJECTS
+Smart Inventory Management System (Academic Project)
+- Built a web application to track inventory levels in real-time.
+- Tech Stack: Python, Flask, SQLite, HTML/CSS.

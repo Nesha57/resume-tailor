@@ -1,0 +1,17 @@
+Name: Alex Chen
+Current Role: Software Engineer II
+
+Experience:
+- 3.5 years of experience in backend development
+- Primary languages: Python, JavaScript
+- Frameworks: Flask, Express.js
+- Databases: PostgreSQL, MongoDB
+- Cloud/DevOps: Basic AWS (EC2, S3), Docker, CI/CD pipelines (GitHub Actions)
+
+Recent Projects:
+- Developed a REST API for user authentication and authorization using Flask and PostgreSQL.
+- Migrated legacy monolithic architecture to independent services.
+- Improved API response time by 20% through caching with Redis.
+
+Education:
+- B.S. in Computer Science

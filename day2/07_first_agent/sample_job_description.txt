@@ -1,0 +1,18 @@
+Role: Senior Backend Engineer
+Company: TechNova Solutions
+
+About the Role:
+We are looking for an experienced Senior Backend Engineer to help scale our microservices architecture. You will be responsible for designing and implementing high-throughput APIs and background workers.
+
+Requirements:
+- 5+ years of software engineering experience
+- Strong proficiency in Python and FastAPI or Django
+- Experience with distributed systems and microservices
+- Familiarity with Docker, Kubernetes, and AWS
+- Strong understanding of SQL and NoSQL databases (PostgreSQL, Redis)
+- Experience mentoring junior engineers
+
+Responsibilities:
+- Architect, build, and maintain scalable backend services
+- Optimize database queries and API response times
+- Participate in code reviews and architecture design sessions
