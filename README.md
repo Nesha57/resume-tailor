@@ -1,4 +1,4 @@
-# AI Agent Workshop - Day 2
+AI-Powered Resume Tailor
 
 Welcome to the AI Agent Workshop - Day 2! In this hands-on workshop, you'll learn how to build production-ready AI agents using the Google Gemini API.
 
